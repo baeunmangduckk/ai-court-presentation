@@ -157,7 +157,7 @@ export const slides: Slide[] = [
     id: 'S8',
     act: 2,
     seconds: 70,
-    headline: '사람 한 명을 배치해 두는 것만으로는 감독이 되지 않는다',
+    headline: '안전요원이 타고 있었지만, 감시는 실패했다',
     panel: {
       type: 'case',
       meta: 'Uber Tempe · 2018년 · 미국 애리조나주 · NTSB 안전조사',
@@ -244,7 +244,7 @@ export const slides: Slide[] = [
     id: 'S12',
     act: 3,
     seconds: 60,
-    headline: '챗봇의 잘못된 안내도 도입한 회사의 책임이 된다',
+    headline: '챗봇의 잘못된 안내도 도입한 회사의 책임이 될 수 있다',
     panel: {
       type: 'case',
       meta: 'Moffatt v Air Canada · 2024년 · 캐나다 BC 민사해결심판소',
@@ -313,7 +313,7 @@ export const slides: Slide[] = [
     id: 'S15',
     act: 4,
     seconds: 65,
-    headline: '사람을 앉혀 두는 것은 감독이 아니다',
+    headline: '사람을 앉혀 두는 것만으로는 감독이 아니다',
     panel: {
       type: 'gate',
       methods: ['사전 승인', '감시·개입', '제한된 자동 실행'],
